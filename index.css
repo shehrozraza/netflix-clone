@@ -1,0 +1,90 @@
+body{
+    background-image: url("./netflixteaser.png");
+    background-repeat: no-repeat;
+    
+}
+
+body,html{
+    background-size: cover;
+}
+.background{
+    height: 100%;
+    width: 100%;
+}
+.contact{
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.266);
+    height: 100px;
+    width: 1170px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.ContactUS{
+    justify-content: center;
+    text-align: center;
+    margin-left: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 75px;
+    color: white;
+}
+.name{
+
+    height: 50px;
+    width: 358px;
+    margin-top: 80px;
+
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 20px;
+    border-radius: 13px;
+}
+.email{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    margin-top: -61px;
+    height: 55px;
+    width: 358px;
+    border-radius: 13px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    opacity: 75%;
+    font-size: 20px
+}
+.contactNo{
+    display: flex;
+    justify-content: center;
+    margin-left: 805px;
+    margin-top: -61px;
+    height: 55px;
+    width: 358px;
+    border-radius: 13px;
+    background-color: rgb(255, 255, 255);
+    opacity: 75%;
+    color: black;
+    font-size: 20px
+}
+.subject{
+    margin-top: 10px;
+    height: 50px;
+    opacity: 75%;
+    width: 1158px;
+    border-radius: 13px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    font-size: 20px;
+    margin-left: 8px;
+}
+.submit{
+    margin-top:36px;
+    height: 38px;
+    width: 120px;
+    opacity: 75%;
+    border-radius: 13px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.619);
+    background-color: white;
+}
